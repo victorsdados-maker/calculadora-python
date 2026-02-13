@@ -17,5 +17,6 @@ O projeto está dividido em versões para mostrar o progresso técnico:
 | Versão | Descrição | Principais Recursos |
 |...|...|...|
 | **v1** | Estrutura Inicial | Soma, Média, Fatorial e Juros Simples/Compostos. |
+| **v2** | Estrutura melhor com uso de funções | Soma,Média,Fatorial e Juros Smples/Compostos.  |
 
 """Desenvolvido por: victorsdados-maker
