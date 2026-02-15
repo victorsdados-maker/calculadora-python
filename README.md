@@ -18,7 +18,7 @@ O projeto está dividido em versões para mostrar o progresso técnico:
 |...|...|...|
 | **v1** | Estrutura Inicial | Soma, Média, Fatorial e Juros Simples/Compostos. |
 | **v2** | Estrutura melhor com uso de funções | Soma,Média,Fatorial e Juros Smples/Compostos.  |
-# Obs:
+### Obs:
     Para facilitar o entendimento dos comentários(#),as variáveis serão comentadas entre _ (Ex:_F1_);caso o nome a variável contanha este sinal será escrito entre * (Ex:*queda_livre*).
 
 """Desenvolvido por: victorsdados-maker
