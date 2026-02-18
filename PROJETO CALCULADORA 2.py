@@ -1,5 +1,5 @@
 
-# PROJETO:Calculadora Multifuncional v1
+# PROJETO:Calculadora Multifuncional v2
 # AUTOR: victorsdados-maker
 # OBJETIVO:Aprendizado e Evolução Técnica.
 
@@ -73,3 +73,4 @@ elif opcao == "e":
 else:
     print("Opção inválida.")     # Ativo caso digite uma letra não pertencente ao menu.
     
+
