@@ -17,8 +17,9 @@ O projeto está dividido em versões para mostrar o progresso técnico:
 | Versão | Descrição | Principais Recursos |
 |...|...|...|
 | **v1** | Estrutura Inicial | Soma, Média, Fatorial e Juros Simples/Compostos. |
-| **v2** | Estrutura melhor com uso de funções | Soma,Média,Fatorial e Juros Smples/Compostos.  |
+| **v2** | Estrutura melhor com uso de funções | Mesmas funcionalidades que a v1. |
 ### Obs:
     Para facilitar o entendimento dos comentários(#),as variáveis serão comentadas entre _ (Ex:_F1_);caso o nome a variável contanha este sinal será escrito entre * (Ex:*queda_livre*).
+| **v3** | Estrutura com funções | adição de Nhaskara as funcionalidades. |
 
 """Desenvolvido por: victorsdados-maker
