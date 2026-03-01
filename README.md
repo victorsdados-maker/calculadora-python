@@ -24,5 +24,6 @@ O projeto está dividido em versões para mostrar o progresso técnico:
 * **v5** | Estabilidade e loop | Adição de `while True`, tratamento no Delta e no coeficiente `a`. |
 * **v6** | Primeiro módulo de física | Adição de Queda Livre com simulação de tempo e posição;reescrita do menu em ordem alfabética facilitando para o usuário. |
 * **v7** | Teorema de Pitágoras e Erros | Tratamento de erros com `try/except`. |
+* **v8** | Refinamento e Travas de Segurança (UX refinado) | `while True` em todas as opções, uso de .replace() para aceitar %, tratamento de divisão por zero e travas para impedir raízes negativas. |
   
 """Desenvolvido por: victorsdados-maker
