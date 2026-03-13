@@ -26,5 +26,7 @@ O projeto está dividido em versões para mostrar o progresso técnico:
 * **v7** | Teorema de Pitágoras e Erros | Tratamento de erros com `try/except`. |
 * **v8** | Refinamento e Travas de Segurança (UX refinado) | `while True` em todas as opções, uso de .replace() para aceitar %, tratamento de divisão por zero e travas para impedir raízes negativas. |
 * **v9** | Sanitização e Modularização de Domínio | Implementação de .strip() em todas as entradas para evitar erros de espaço; criação do módulo lib_TEMP focado em conversões térmicas.(Para uso das conersões é necessário que o módulo seja mantido na mesma pasta que a v9) |
+* **v10** | Limpeza e organização. | Infelizmente por questo~es pessoais não pude mais uma vez demonstrar grande avanço,esta versão apenas faz uso de um módulo assim como a v9,porém todas as funções agora pertecem a esse módulo(lib_geral). |
+* 
   
 """Desenvolvido por: victorsdados-maker
